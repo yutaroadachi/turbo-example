@@ -1,0 +1,9 @@
+{
+  "name": "turborepo-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "turbo": "1.7.0"
+  }
+}
